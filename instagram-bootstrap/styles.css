@@ -7,3 +7,7 @@ body {
     font-size:29px;
     padding: 6px;
 }
+.button:focus{
+    background-color: #000;
+    color: white;
+}
